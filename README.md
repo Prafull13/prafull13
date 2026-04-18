@@ -53,7 +53,8 @@ role: Automation Engineer & DevOps Specialist
 
 currently_working_on:
   - Automation Frameworks
-  - Java & Cypress Testing
+  - Java, Cypress & Playwright Testing
+  - Pytest & Robot Framework
   - JMeter Performance Testing
 
 exploring:
@@ -116,7 +117,7 @@ prafull@github:~$ ls ./tech-stack/
 
 ### `⚡ Languages`
 
-<img src="https://skillicons.dev/icons?i=java,javascript,nodejs&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs&theme=dark" alt="Languages" />
 
 <br/><br/>
 
@@ -127,6 +128,9 @@ prafull@github:~$ ls ./tech-stack/
 <a href="https://github.com/puppeteer/puppeteer"><img src="https://img.shields.io/badge/Puppeteer-282a36?style=for-the-badge&logo=puppeteer&logoColor=40B5A4" alt="Puppeteer"/></a>
 <a href="https://mochajs.org"><img src="https://img.shields.io/badge/Mocha-282a36?style=for-the-badge&logo=mocha&logoColor=8D6748" alt="Mocha"/></a>
 <a href="https://postman.com"><img src="https://img.shields.io/badge/Postman-282a36?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/></a>
+<a href="https://docs.pytest.org"><img src="https://img.shields.io/badge/Pytest-282a36?style=for-the-badge&logo=pytest&logoColor=0A9EDC" alt="Pytest"/></a>
+<a href="https://playwright.dev"><img src="https://img.shields.io/badge/Playwright-282a36?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright"/></a>
+<a href="https://robotframework.org"><img src="https://img.shields.io/badge/Robot_Framework-282a36?style=for-the-badge&logo=robotframework&logoColor=00C0B5" alt="Robot Framework"/></a>
 
 <br/><br/>
 
@@ -139,6 +143,7 @@ prafull@github:~$ ls ./tech-stack/
 <a href="https://www.jenkins.io"><img src="https://img.shields.io/badge/Jenkins-282a36?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins"/></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-282a36?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/></a>
 <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-282a36?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/></a>
+<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-282a36?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/></a>
 
 <br/><br/>
 
