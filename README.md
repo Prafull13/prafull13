@@ -1,84 +1,324 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ██████╗ ██████╗  █████╗ ███████╗██╗   ██╗██╗     ██╗     
+     ██╔══██╗██╔══██╗██╔══██╗██╔════╝██║   ██║██║     ██║     
+     ██████╔╝██████╔╝███████║█████╗  ██║   ██║██║     ██║     
+     ██╔═══╝ ██╔══██╗██╔══██║██╔══╝  ██║   ██║██║     ██║     
+     ██║     ██║  ██║██║  ██║██║     ╚██████╔╝███████╗███████╗
+     ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚══════╝╚══════╝
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Prafull Chauvhan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
+<!-- ANIMATED TYPING HEADER -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+Hey%2C+I'm+Prafull+Chauvhan+%F0%9F%91%8B;%3E+Automation+Engineer+%7C+DevOps+%7C+Architect" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- TERMINAL-STYLE TAGLINE -->
+<img src="https://img.shields.io/badge/%24-building_quality_into_every_pipeline-282a36?style=for-the-badge&labelColor=282a36&color=44475a&logo=gnubash&logoColor=50fa7b" alt="tagline"/>
+
+<br/><br/>
+
+<!-- PROFILE VIEWS & SOCIAL BADGES -->
+<a href="https://github.com/prafull13"><img src="https://komarev.com/ghpvc/?username=prafull13&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS" alt="Profile Views"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/prafull-chauvhan-93130015/"><img src="https://img.shields.io/badge/LinkedIn-connect-282a36?style=for-the-badge&logo=linkedin&logoColor=6272a4&labelColor=282a36" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:prafull.chauvhan@gmail.com"><img src="https://img.shields.io/badge/Email-reach_out-282a36?style=for-the-badge&logo=gmail&logoColor=ff5555&labelColor=282a36" alt="Email"/></a>
+
 </div>
-<h2 align="center">A passionate Automation Engineer with DevOps Expertise from India</h2>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prafull-chauvhan-93130015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prafull-chauvhan-93130015" height="30" width="40" /></a> </br>
-</br>
-</p>
-<h3 align="center">👯 I’m looking to collaborate on Test Automation Framework development, optimizing testing processes, and ensuring high-quality software solutions</h3>
 
-</br>
-<h3 align="left"> 🎓 Education:</h3>
-<hr class="default">
+<br/>
 
-**Nagpur University (RTMNU)** </br>
-    - Bachelor of Engineering - B.E, Computer Science and Engineering.
-   
-**PG-DAC - Center for Development of Advanced Computing (Pune,India)**</br>
-    - PG Diploma in Advanced Computing
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT SECTION -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<hr class="gradient">
-<h3 align="left"> 💻 Languages:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="left"> 🚀 Technologies and Tools:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-<hr class="gradient">
-<h3 align="left">Things you should know about me:</h3>
+```console
+prafull@github:~$ cat about.txt
+```
 
-- 🎓 Education: **B.E in Computer Science and Engineering, P.G.D in Advanced Computing.**
-  
-- 💖 Love: **Automation and Java Technology.**
+<table>
+<tr>
+<td width="55%">
 
-- 👨🏽‍💻 Currently working on: **Automation Frameworks, Java, Cypress, Jmeter**
-  
-- 🌱 Exploring: **AWS, Azure, Kubernetes, Docker, Terraform**
+### `> whoami`
 
-- 🖍 Getting better at: **Cloud Technologies, Java**
-  
-- 👀 Interest: **Automation and Testing Framework Development.**
-  
-- 💬 Ask me about: **UI, API and Mobile Automation, Automation frameworks**
+```yaml
+name: Prafull Chauvhan
+location: India
+role: Automation Engineer & DevOps Specialist
 
-- ⚡ Fun fact: **We have created a secret language. Me and my friends use our kind of spoken code language which only we can encode. It's really funny as only we can understand that and everybody else around is just wondering what are we doing and trying to say.**
-  
-- 📫 How to reach me: **prafull.chauvhan@gmail.com**
-  
-- 💬 Other link: [Portfolio](https://github.com/prafull13),[LinkedIn](https://www.linkedin.com/in/prafull-chauvhan-93130015/)
+currently_working_on:
+  - Automation Frameworks
+  - Java & Cypress Testing
+  - JMeter Performance Testing
 
-<hr class="gradient">
-📊 **this week i spent my time on:**
+exploring:
+  - AWS & Azure Cloud
+  - Kubernetes & Docker
+  - Terraform IaC
+
+passion: >
+  Building robust test automation frameworks
+  that catch bugs before users do.
+
+fun_fact: >
+  My friends and I created a secret spoken
+  code language — only we can decode it.
+  Everyone else just wonders what's going on!
+```
+
+</td>
+<td width="45%">
+
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" alt="coding gif"/>
+
+<br/>
+
+<div align="center">
+
+```txt
+💬 Ask me about:
+├── UI Automation
+├── API Testing
+├── Mobile Automation
+└── Framework Architecture
+```
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+```console
+prafull@github:~$ ls ./tech-stack/
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `⚡ Languages`
+
+<img src="https://skillicons.dev/icons?i=java,javascript,nodejs&theme=dark" alt="Languages" />
+
+<br/><br/>
+
+### `🔧 Testing & Automation`
+
+<a href="https://www.cypress.io"><img src="https://img.shields.io/badge/Cypress-282a36?style=for-the-badge&logo=cypress&logoColor=69D3A7" alt="Cypress"/></a>
+<a href="https://www.selenium.dev"><img src="https://img.shields.io/badge/Selenium-282a36?style=for-the-badge&logo=selenium&logoColor=43B02A" alt="Selenium"/></a>
+<a href="https://github.com/puppeteer/puppeteer"><img src="https://img.shields.io/badge/Puppeteer-282a36?style=for-the-badge&logo=puppeteer&logoColor=40B5A4" alt="Puppeteer"/></a>
+<a href="https://mochajs.org"><img src="https://img.shields.io/badge/Mocha-282a36?style=for-the-badge&logo=mocha&logoColor=8D6748" alt="Mocha"/></a>
+<a href="https://postman.com"><img src="https://img.shields.io/badge/Postman-282a36?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/></a>
+
+<br/><br/>
+
+### `☁️ Cloud & DevOps`
+
+<a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-282a36?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/></a>
+<a href="https://azure.microsoft.com"><img src="https://img.shields.io/badge/Azure-282a36?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure"/></a>
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-282a36?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/></a>
+<a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-282a36?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes"/></a>
+<a href="https://www.jenkins.io"><img src="https://img.shields.io/badge/Jenkins-282a36?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-282a36?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/></a>
+<a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-282a36?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/></a>
+
+<br/><br/>
+
+### `🗄️ Databases & Monitoring`
+
+<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-282a36?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/></a>
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-282a36?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/></a>
+<a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-282a36?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis"/></a>
+<a href="https://www.rabbitmq.com"><img src="https://img.shields.io/badge/RabbitMQ-282a36?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ"/></a>
+<a href="https://www.elastic.co"><img src="https://img.shields.io/badge/Elasticsearch-282a36?style=for-the-badge&logo=elasticsearch&logoColor=005571" alt="Elasticsearch"/></a>
+<a href="https://grafana.com"><img src="https://img.shields.io/badge/Grafana-282a36?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana"/></a>
+<a href="https://www.elastic.co/kibana"><img src="https://img.shields.io/badge/Kibana-282a36?style=for-the-badge&logo=kibana&logoColor=E8478B" alt="Kibana"/></a>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- EDUCATION -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+```console
+prafull@github:~$ cat education.log
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│  🎓  Nagpur University (RTMNU)                                     │
+│  ├── Bachelor of Engineering (B.E.)                                │
+│  └── Computer Science and Engineering                              │
+│                                                                    │
+│  🎓  C-DAC, Pune, India                                            │
+│  ├── Post Graduate Diploma                                         │
+│  └── Advanced Computing (PG-DAC)                                   │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- WEEKLY STATS -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+```console
+prafull@github:~$ neofetch --coding-stats
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+#### `📊 This Week's Coding Activity`
+
 <!--START_SECTION:waka-->
-
 ```txt
 Java         2 hrs 1 min     ██████████████████████▒░░   89.13 %
 JavaScript   14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
-
 <!--END_SECTION:waka-->
-<hr class="gradient">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
-
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/prafullchauvhan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-<hr class="divider">
-### 🌐 Check out my website:
-### In Progress ░░░░░░░░░░░░░░░░░░░░░░░░░ 
-
-<hr class="divider">
-
-### 📈 GitHub Stats:
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prafull13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+```console
+prafull@github:~$ git stats --all
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/prafull13">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prafull13&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=50fa7b&text_color=f8f8f2&ring_color=ff79c6" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prafull13&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&langs_count=6" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<!-- STREAK STATS -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prafull13&theme=dracula&hide_border=true&background=282a36&stroke=44475a&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- CONTRIBUTION SNAKE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prafull13/prafull13/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prafull13/prafull13/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/prafull13/prafull13/output/github-snake-dark.svg" />
+</picture>
+
+> 💡 *Set up the [snake workflow](https://github.com/Platane/snk) in your repo to activate the contribution animation above.*
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- CONNECT -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+```console
+prafull@github:~$ ./connect.sh
+```
+
+<br/>
+
+<a href="https://www.linkedin.com/in/prafull-chauvhan-93130015/"><img src="https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=6272a4" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:prafull.chauvhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-282a36?style=for-the-badge&logo=gmail&logoColor=ff5555" alt="Gmail"/></a>
+&nbsp;
+<a href="https://github.com/prafull13"><img src="https://img.shields.io/badge/Portfolio-282a36?style=for-the-badge&logo=github&logoColor=f8f8f2" alt="Portfolio"/></a>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+
+*I love connecting with different people — if you want to say **hi**, I'll be happy to meet you!*
+
+<br/><br/>
+
+<!-- BUY ME A COFFEE -->
+```
+if (you.enjoyedMyWork) {
+    buyMeACoffee("prafullchauvhan");  // ☕
+}
+```
+
+<a href="https://www.buymeacoffee.com/prafullchauvhan" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-282a36?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffdd00" alt="Buy Me A Coffee"/></a>
+
+<br/><br/>
+
+<!-- WEBSITE STATUS -->
+```
+🌐 Portfolio Website
+██░░░░░░░░░░░░░░░░░░ 10% — Coming Soon...
+```
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer"/>
