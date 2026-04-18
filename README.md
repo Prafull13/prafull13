@@ -25,6 +25,8 @@
 <a href="https://www.linkedin.com/in/prafull-chauvhan-93130015/"><img src="https://img.shields.io/badge/LinkedIn-connect-282a36?style=for-the-badge&logo=linkedin&logoColor=6272a4&labelColor=282a36" alt="LinkedIn"/></a>
 &nbsp;
 <a href="mailto:prafull.chauvhan@gmail.com"><img src="https://img.shields.io/badge/Email-reach_out-282a36?style=for-the-badge&logo=gmail&logoColor=ff5555&labelColor=282a36" alt="Email"/></a>
+&nbsp;
+<a href="https://prafullchauvhan.in"><img src="https://img.shields.io/badge/Website-visit-282a36?style=for-the-badge&logo=googlechrome&logoColor=50fa7b&labelColor=282a36" alt="Website"/></a>
 
 </div>
 
@@ -291,7 +293,7 @@ prafull@github:~$ ./connect.sh
 &nbsp;
 <a href="mailto:prafull.chauvhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-282a36?style=for-the-badge&logo=gmail&logoColor=ff5555" alt="Gmail"/></a>
 &nbsp;
-<a href="https://github.com/prafull13"><img src="https://img.shields.io/badge/Portfolio-282a36?style=for-the-badge&logo=github&logoColor=f8f8f2" alt="Portfolio"/></a>
+<a href="https://prafullchauvhan.in"><img src="https://img.shields.io/badge/Portfolio-282a36?style=for-the-badge&logo=googlechrome&logoColor=50fa7b" alt="Portfolio"/></a>
 
 <br/><br/>
 
@@ -312,11 +314,8 @@ if (you.enjoyedMyWork) {
 
 <br/><br/>
 
-<!-- WEBSITE STATUS -->
-```
-🌐 Portfolio Website
-██░░░░░░░░░░░░░░░░░░ 10% — Coming Soon...
-```
+<!-- WEBSITE -->
+<a href="https://prafullchauvhan.in"><img src="https://img.shields.io/badge/🌐_prafullchauvhan.in-282a36?style=for-the-badge&labelColor=282a36&color=44475a" alt="Website"/></a>
 
 </div>
 
