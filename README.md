@@ -10,7 +10,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+Hey%2C+I'm+Prafull+Chauvhan+%F0%9F%91%8B;%3E+Automation+Engineer+%7C+DevOps+%7C+Architect" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+Hey%2C+I'm+Prafull+Chauvhan+%F0%9F%91%8B;%3E+Automation+Engr+%7C+DevOps+%7C+Architect" alt="Typing SVG" /></a>
 
 <br/>
 
